@@ -2,7 +2,7 @@ import { useRegisteredContract } from "@soroban-react/contracts";
 import { useSorobanReact } from "@soroban-react/core";
 import { nativeToScVal } from "@stellar/stellar-sdk";
 import React, { ChangeEvent, Dispatch, SetStateAction, useState } from "react";
-import ChatAvatar from "./ChatAvatar";
+import ChatAvatar from "./chat-avatar";
 import { getShortAddress } from "@/utils";
 
 interface Props {

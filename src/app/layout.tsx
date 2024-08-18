@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
-import SorobanProvider from "@/components/SorobanProvider";
+import SorobanProvider from "@/components/soroban-provider";
 
 const inter = Inter({ subsets: ["latin"] });
 

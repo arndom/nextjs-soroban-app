@@ -1,10 +1,10 @@
 "use client";
 
-import ChatHeader from "@/components/ChatHeader";
-import ConnectWallet from "../components/ConnectWallet";
-import ChainSelect from "@/components/ChainSelect";
-import ChatFooter from "@/components/ChatFooter";
-import ChatBlock from "../components/ChatBlock";
+import ChatHeader from "@/components/chat-header";
+import ConnectWallet from "../components/connect-wallet";
+import ChainSelect from "@/components/chain-select";
+import ChatFooter from "@/components/chat-footer";
+import ChatBlock from "../components/chat-block";
 import useFetchLastMessage from "@/hooks";
 import { useEffect, useState } from "react";
 

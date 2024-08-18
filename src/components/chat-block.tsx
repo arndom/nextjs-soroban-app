@@ -1,6 +1,6 @@
 "use client";
 
-import ChatAvatar from "./ChatAvatar";
+import ChatAvatar from "./chat-avatar";
 
 interface Props {
   username: string;
