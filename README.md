@@ -2,7 +2,7 @@
 
 <img src="public/demo.png" alt="demo" />
 
-An app showing a simple soroban contract interaction, used in this tutorial: 
+An app showing a simple soroban contract interaction, used in this tutorial: https://soroban-js-docs.netlify.app/
 
 # Development
 ```bash
